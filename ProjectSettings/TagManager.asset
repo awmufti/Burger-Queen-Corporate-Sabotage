@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Cutable
+  - Cookable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Cutable
   - Water
   - UI
   - 
